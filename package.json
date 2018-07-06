@@ -1,0 +1,25 @@
+{
+  "name": "cordova-icreate-amap-location",
+  "version": "1.0.6",
+  "description": "Sourcec code is from https://github.com/Silverbase-FE/cordova-plugin-amap.git.It is that chenjianxun changed the part of the codes.",
+  "cordova": {
+    "id": "cordova-icreate-amap-location",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ChanJianxun/cordova-icreate-amap-location.git"
+  },
+  "keywords": [
+    "cordova",
+    "location",
+    "高德",
+    "geolocation",
+    "cordova 高德"
+  ],
+  "author": "chenjianxun",
+  "license": "Apache 2.0"
+}
