@@ -18,7 +18,7 @@
 -->
 
 
-# cordova-plugin-amap-location
+# cordova-icreate-amap-location
 
 ## 描述
     本插件来源于:https://github.com/ergoli/cordova-amap-location,作者为ergoli。
